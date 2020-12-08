@@ -1,0 +1,58 @@
+h2 {
+    font-family: 'Kalam', cursive;
+    color: #18677F;
+}
+.box{
+    font-family: 'Monoton', cursive;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar {
+    height: 150px;
+    width: 200px;
+    margin-top: 15px;
+    border: orange solid 12px;
+    padding: 15px;
+}
+
+.box {
+    border: yellow solid 10px;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+.box2 {
+    height: 250px;
+    margin-top: 25px;
+    border:20px solid salmon;
+    padding: 10px;
+    
+    
+}
+
+.pic1 {
+    height: 150px;
+    width: 200px;
+}
+
+p {
+   text-align: center;  
+}
+
+.albumNames{
+   font-family: 'Indie Flower', cursive;
+}
+
+p{
+    font-family: 'Caveat', cursive;
+    color:maroon;
+}
